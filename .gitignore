@@ -6,3 +6,7 @@
 *.cache
 
 *.log
+
+*.pid
+
+*.cache
