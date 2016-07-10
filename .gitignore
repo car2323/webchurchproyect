@@ -16,3 +16,5 @@
 *.log
 
 *.cache
+
+log/development.log
