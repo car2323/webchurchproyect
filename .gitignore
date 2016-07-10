@@ -12,3 +12,7 @@
 *.cache
 
 *.pid
+
+*.log
+
+*.cache

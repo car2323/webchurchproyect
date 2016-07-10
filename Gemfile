@@ -12,6 +12,9 @@ gem 'sass-rails', '~> 5.0'
 # add this 07/08/2016 **********************
 #gem 'bootstrap-sass', '~> 3.2.0'
 #gem 'autoprefixer-rails'
+
+gem 'devise'
+
 # add this 07/08/2016 **********************
 
 
