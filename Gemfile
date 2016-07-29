@@ -14,7 +14,7 @@ gem 'sass-rails', '~> 5.0'
 #gem 'autoprefixer-rails'
 
 gem 'devise'
-
+gem 'materialize-sass'
 # add this 07/08/2016 **********************
 
 
