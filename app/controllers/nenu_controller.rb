@@ -1,0 +1,2 @@
+class NenuController < ApplicationController
+end
