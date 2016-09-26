@@ -1,2 +1,2 @@
-class NenuController < ApplicationController
+class MenuController < ApplicationController
 end
