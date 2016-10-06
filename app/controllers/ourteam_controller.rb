@@ -1,0 +1,2 @@
+class OurteamController < ApplicationController
+end
