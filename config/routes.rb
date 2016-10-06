@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   root 'welcome#index' 
 
   get 'menu/index'
+  get 'ourteam/index'
 
   devise_for :users
 
