@@ -4,6 +4,8 @@ Rails.application.routes.draw do
 
   get 'menu/index'
   get 'ourteam/index'
+  get 'post/index'
+  get 'media/index'
 
   devise_for :users
 
