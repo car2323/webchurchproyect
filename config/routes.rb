@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   get 'ourteam/index'
   get 'post/index'
   get 'media/index'
+  get 'calendar/index'
 
   devise_for :users
 
